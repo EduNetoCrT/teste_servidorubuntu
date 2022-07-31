@@ -1,0 +1,23 @@
+{
+  "name": "teste_servidorubuntu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EduNetoCrT/teste_servidorubuntu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EduNetoCrT/teste_servidorubuntu/issues"
+  },
+  "homepage": "https://github.com/EduNetoCrT/teste_servidorubuntu#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
